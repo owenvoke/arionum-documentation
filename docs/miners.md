@@ -8,7 +8,6 @@ Short link: https://git.io/fN7ye
 
 #### C++
 
-- [Bogdan's Miner](https://github.com/bogdanadnan/ariominer)
 - [Cryptogone's Miner](https://bitbucket.org/cryptogone/arionum-gpu-miner)
 - [Guli's Miner](https://bitbucket.org/guli13/arionum-gpu-miner)
 
@@ -28,8 +27,13 @@ Short link: https://git.io/fN7ye
 
 #### C++
 
-- [Bogdan's Miner](https://github.com/bogdanadnan/ariominer)
 - [Cryptogone's Miner](https://bitbucket.org/cryptogone/arionum-gpu-miner)
+
+## Mixed Miners
+
+#### C++
+
+- [Bogdan's Miner](https://github.com/bogdanadnan/ariominer)
 
 ## Mobile Miners
 
