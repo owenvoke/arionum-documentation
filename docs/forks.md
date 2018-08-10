@@ -7,6 +7,7 @@ Short link: https://git.io/fNQAP
 ## Forks
 
 - [Resistance](#resistance-10800)
+- [Renaissance](#renaissance-80000)
 
 ## Resistance (10800)
 
@@ -21,5 +22,15 @@ The new values for mining are:
 - Threads: 1
 - Memory:  524288
 - Time:    1
+
+## Renaissance (80000)
+
+[Official Announcement](https://forum.arionum.com/viewtopic.php?t=364)
+
+Implements the address alias system.
+
+Updates to a hybrid mining system where 1 block each is rewarded to CPU miners, GPU miners and masternode staking.
+
+Implements masternodes which win blocks based on a Proof of Stake (PoS) system and will be used for project governance.
 
 [arionum]: https://arionum.com
