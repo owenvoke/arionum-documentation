@@ -7,7 +7,7 @@ A collection of documentation for the [Arionum][link-arionum] blockchain.
 
 ## Usage
 
-- [Forks][docs/forks.md]
+- [Forks](docs/forks.md)
 
 ## Credits
 
@@ -22,4 +22,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-travis]: https://img.shields.io/travis/pxgamer/arionum-documentation/master.svg?style=flat-square
 
 [link-arionum]: https://arionum.com
-[link-travis]: https://travis-ci.com/pxgamer/:package_name
+[link-travis]: https://travis-ci.com/pxgamer/arionum-documentation
+[link-author]: https://github.com/pxgamer
+[link-contributors]: ../../contributors
