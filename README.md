@@ -5,6 +5,10 @@
 
 A collection of documentation for the [Arionum][link-arionum] blockchain.
 
+## Usage
+
+- [Forks][docs/forks.md]
+
 ## Credits
 
 - [pxgamer][link-author]
