@@ -8,6 +8,7 @@ A collection of documentation for the [Arionum][link-arionum] blockchain.
 
 - [Forks](docs/forks.md)
 - [Miners](docs/miners.md)
+- [Wallets](docs/wallets.md)
 
 ## Credits
 
