@@ -6,8 +6,10 @@ Short link: https://git.io/fNQAP
 
 ## Forks
 
-- [Resistance](#resistance-10800)
-- [Renaissance](#renaissance-80000)
+- [Resistance (10800)](#resistance-10800)
+- [Renaissance (80000)](#renaissance-80000)
+- [Unnamed (80460](#unnamed-80460)
+- [Unnamed (80500)](#unnamed-80500)
 
 ## Resistance (10800)
 
@@ -32,6 +34,14 @@ Implements the address alias system.
 Updates to a hybrid mining system where 1 block each is rewarded to CPU miners, GPU miners and masternode staking.
 
 Implements masternodes which win blocks based on a Proof of Stake (PoS) system and will be used for project governance.
+
+## Unnamed (80460)
+
+_No official announcement._
+
+Change to only CPU and GPU mining.
+
+Masternodes now receive 33% of all blocks.
 
 ## Unnamed (80500)
 
