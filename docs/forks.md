@@ -33,4 +33,10 @@ Updates to a hybrid mining system where 1 block each is rewarded to CPU miners, 
 
 Implements masternodes which win blocks based on a Proof of Stake (PoS) system and will be used for project governance.
 
+## Unnamed (80500)
+
+_No official announcement._
+
+Gives block to GPU miners if block is taking too long.
+
 [arionum]: https://arionum.com
