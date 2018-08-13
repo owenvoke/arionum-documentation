@@ -8,7 +8,7 @@ Short link: https://git.io/fNQAP
 
 - [Resistance (10800)](#resistance-10800)
 - [Renaissance (80000)](#renaissance-80000)
-- [Unnamed (80460](#unnamed-80460)
+- [Unnamed (80460)](#unnamed-80460)
 - [Unnamed (80500)](#unnamed-80500)
 
 ## Resistance (10800)
