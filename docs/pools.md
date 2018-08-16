@@ -11,7 +11,7 @@ Short link: https://git.io/fN5cA
 - [AroPool](https://aropool.com) (HTTPS/HTTP)
 - [AroPoollo](http://aropoollo.pw) (HTTP-only)
 - [ARO.Cool](https://aro.cool) (HTTPS/HTTP)
-- [ARO Party](https://aro.party) (HTTPS/HTTP)
+- [ARO Party](https://aro.party) (HTTPS)
 - [Hashe.rs](http://hashe.rs) (HTTP-only)
 - [KiraMine](http://aro.kiramine.com) (HTTP-only)
 
