@@ -6,7 +6,8 @@ Short link: https://git.io/fN5cg
 
 ## GUI Wallets
 
-- [Official GUI Wallet & Miner](https://github.com/arionum/lightWalletGUI) (VB.NET)
+- [Official Windows Wallet & Miner](https://github.com/arionum/lightWalletGUI) (VB.NET)
+- [Official Cross-platform Wallet](https://github.com/CuteCubed/Arionum-Java-Wallet) (Java)
 
 ## CLI Wallets
 
