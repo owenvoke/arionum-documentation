@@ -7,7 +7,6 @@ Short link: https://git.io/fN5cA
 ## Pools
 
 - [ArionumPool](https://arionumpool.com) (HTTPS/HTTP)
-- [Arionum Rocks](http://arionum.rocks) (HTTP-only)
 - [AroPool](https://aropool.com) (HTTPS/HTTP)
 - [ARO.Cool](https://aro.cool) (HTTPS/HTTP)
 - [ARO Party](https://aro.party) (HTTPS)
