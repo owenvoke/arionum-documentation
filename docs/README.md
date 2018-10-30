@@ -19,3 +19,10 @@ There are also accounts on the following sites:
 - [Twitter](https://twitter.com/ArionumCrypto)
 - [Reddit](https://reddit.com/r/Arionum)
 - [BitcoinTalk](https://bitcointalk.org/index.php?topic=2710248)
+
+## Market Tracking
+
+- [CoinMarketCap](https://coinmarketcap.com/currencies/arionum)
+- [Live Coin Watch](https://livecoinwatch.com/price/Arionum-ARO)
+- [Coinlib](https://coinlib.io/coin/ARO/Arionum)
+- [ArioChain](https://www.ariochain.info)
