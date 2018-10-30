@@ -3,6 +3,7 @@
   - [Wallets](wallets.md)
   - [Mining](mining.md)
   - [Mining Pools](mining-pools.md)
+  - [Exchanges](exchanges.md)
   
 - Developers
 
