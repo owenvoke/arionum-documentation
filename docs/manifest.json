@@ -3,7 +3,7 @@
     "short_name": "ARO Docs",
     "description": "A collection of documentation for the Arionum blockchain.",
 
-    "start_url": "/",
+    "start_url": "/arionum-documentation/",
     "scope": "/arionum-documentation/",
     "display": "standalone",
 
