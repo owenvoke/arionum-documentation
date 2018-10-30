@@ -6,8 +6,9 @@
 
 - Fully open source
 - Miner friendly
-- No premine
+- No pre-mine
 - PHP coded
+- Low transaction fees
 
 ## Community
 
