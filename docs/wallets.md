@@ -2,22 +2,20 @@
 
 A definitive list of wallets for Arionum.
 
-Short link: https://git.io/fN5cg
-
 ## GUI Wallets
 
-- [Official Windows Wallet & Miner](https://github.com/arionum/lightWalletGUI) (VB.NET)
-- [Official Cross-platform Wallet](https://github.com/CuteCubed/Arionum-Java-Wallet) (Java)
+- [Official Windows Wallet & Miner](https://www.arionum.com/LightArionumD) ([source](https://github.com/arionum/lightWalletGUI))
+- [Official Cross-platform Wallet](https://wallet.arionum.com/installer) ([source](https://github.com/CuteCubed/Arionum-Java-Wallet))
 
 ## CLI Wallets
 
-- [Official CLI Wallet](https://github.com/arionum/lightWalletCLI) (PHP)
-- [pxgamer's PHP Wallet](https://github.com/pxgamer/arionum-cli) (PHP)
+- [Official PHP CLI Wallet](https://github.com/arionum/lightWalletCLI)
+- [pxgamer's PHP CLI Wallet](https://github.com/pxgamer/arionum-cli/releases/latest) ([source](https://github.com/pxgamer/arionum-cli))
 
 ## Web Wallets
 
-- [Official Web Wallet](https://wallet.arionum.com)
+- [Official Web Wallet](https://wallet.arionum.com) ([source](https://github.com/CuteCubed/Arionum-Web-Wallet))
 
 ## Mobile Wallets
 
-- [Cuby's Wallet & Miner](https://github.com/CuteCubed/Arionum-Wallet-Android) (Android)
+- [Cuby's Android Wallet & Miner](https://play.google.com/store/apps/details?id=arionum.net.cubedpixels) ([source](https://github.com/CuteCubed/Arionum-Wallet-Android))

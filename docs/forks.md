@@ -2,16 +2,7 @@
 
 Concise information on forks in the [Arionum] blockchain.
 
-Short link: https://git.io/fNQAP
-
-## Forks
-
-- [Resistance (10800)](#resistance-10800)
-- [Renaissance (80000)](#renaissance-80000)
-- [Unnamed (80460)](#unnamed-80460)
-- [Unnamed (80500)](#unnamed-80500)
-
-## Resistance (10800)
+## Block 10800 (Resistance)
 
 [Official Announcement](https://forum.arionum.com/viewtopic.php?t=21)
 
@@ -25,7 +16,7 @@ The new values for mining are:
 - Memory:  524288
 - Time:    1
 
-## Renaissance (80000)
+## Block 80000 (Renaissance)
 
 [Official Announcement](https://forum.arionum.com/viewtopic.php?t=364)
 
@@ -35,7 +26,7 @@ Updates to a hybrid mining system where 1 block each is rewarded to CPU miners, 
 
 Implements masternodes which win blocks based on a Proof of Stake (PoS) system and will be used for project governance.
 
-## Unnamed (80460)
+## Block 80460
 
 _No official announcement._
 
@@ -43,7 +34,7 @@ Change to only CPU and GPU mining.
 
 Masternodes now receive 33% of all blocks.
 
-## Unnamed (80500)
+## Block 80500
 
 _No official announcement._
 
