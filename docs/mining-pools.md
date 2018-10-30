@@ -8,7 +8,7 @@ A list of known pools for Arionum.
 - [AroPool](https://aropool.com) (HTTPS/HTTP)
 - [ARO.Cool](https://aro.cool) (HTTPS/HTTP)
 - [Arionum Rocks](https://arionum.rocks) (HTTP only)
-- [Aro Pool EU](https://aropool.eu/) (HTTPS/HTTP only)
+- [Aro Pool EU](https://aropool.eu/) (HTTPS/HTTP)
 
 ## Solo Pools
 
