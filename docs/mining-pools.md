@@ -1,8 +1,6 @@
-# Pools
+# Mining Pools
 
 A list of known pools for Arionum.
-
-Short link: https://git.io/fN5cA
 
 ## Pools
 

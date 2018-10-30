@@ -1,8 +1,6 @@
-# Miners
+# Mining
 
 A definitive list of miners for Arionum.
-
-Short link: https://git.io/fN7ye
 
 ## CPU Miners
 
