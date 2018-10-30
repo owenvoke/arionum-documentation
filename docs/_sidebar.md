@@ -15,3 +15,4 @@
   - [GitHub](https://github.com/arionum)
   - [Forum](https://forum.arionum.com)
   - [Discord](https://discordapp.com/invite/ZkrFqt4)
+  - [Whitepaper](https://arionum.com/wp.pdf)
