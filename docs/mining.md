@@ -1,6 +1,6 @@
 # Mining
 
-A definitive list of miners for Arionum.
+A list of available miners for Arionum.
 
 ## CPU Miners
 

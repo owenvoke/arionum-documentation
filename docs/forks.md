@@ -1,6 +1,6 @@
 # Forks
 
-Concise information on forks in the [Arionum] blockchain.
+Concise information on forks in the Arionum blockchain.
 
 ## Block 10800 (Resistance)
 
@@ -39,5 +39,3 @@ Masternodes now receive 33% of all blocks.
 _No official announcement._
 
 Gives block to GPU miners if block is taking too long.
-
-[arionum]: https://arionum.com

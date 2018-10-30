@@ -1,6 +1,6 @@
 # Wallets
 
-A definitive list of wallets for Arionum.
+A list of available wallets for Arionum.
 
 ## GUI Wallets
 
