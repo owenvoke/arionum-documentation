@@ -4,13 +4,9 @@
 
 A collection of documentation for the [Arionum][link-arionum] blockchain.
 
-## Content
+## Usage
 
-- [Forks](docs/forks.md)
-- [Miners](docs/miners.md)
-- [Pools](docs/pools.md)
-- [Wallets](docs/wallets.md)
-- [API Wrappers](docs/api-wrappers.md)
+See the [`docs`](docs) directory for site content.
 
 ## Credits
 
