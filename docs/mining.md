@@ -12,6 +12,7 @@ A list of available miners for Arionum.
 
 ## GPU Miners
 
+- [Aromatics Miner](https://bitbucket.org/aromatics/aromatics_miner/downloads) ([source](https://bitbucket.org/aromatics/aromatics_miner/src))
 - [Cryptogone's Miner](https://bitbucket.org/cryptogone/arionum-gpu-miner) ([source](https://bitbucket.org/cryptogone/arionum-gpu-miner/src))
 
 ## Mixed Miners
