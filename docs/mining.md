@@ -4,7 +4,7 @@ A list of available miners for Arionum.
 
 ## CPU Miners
 
-- [Cryptogone's Miner](https://bitbucket.org/cryptogone/ariocppminer) ([source](https://bitbucket.org/cryptogone/ariocppminer/src))
+- [Cryptogone's CPU Miner](https://bitbucket.org/cryptogone/ariocppminer) ([source](https://bitbucket.org/cryptogone/ariocppminer/src))
 - [Dan's Miner](https://github.com/ProgrammerDan/arionum-java/releases/latest) ([source](https://github.com/ProgrammerDan/arionum-java))
 - [Official GUI Wallet & Miner](https://arionum.com/LightArionumD) ([source](https://github.com/arionum/lightWalletGUI))
 - [Official PHP Miner](https://github.com/arionum/miner) ([source](https://github.com/arionum/miner))
@@ -12,7 +12,7 @@ A list of available miners for Arionum.
 ## GPU Miners
 
 - [Aromatics Miner](https://bitbucket.org/aromatics/aromatics_miner/downloads) ([source](https://bitbucket.org/aromatics/aromatics_miner/src))
-- [Cryptogone's Miner](https://bitbucket.org/cryptogone/arionum-gpu-miner) ([source](https://bitbucket.org/cryptogone/arionum-gpu-miner/src))
+- [Cryptogone's GPU Miner](https://bitbucket.org/cryptogone/arionum-gpu-miner) ([source](https://bitbucket.org/cryptogone/arionum-gpu-miner/src))
 
 ## Mixed Miners
 
