@@ -9,6 +9,7 @@
 
   - [API Wrappers](api-wrappers.md)
   - [Forks](forks.md)
+  - [Node API](node-api.md)
   - [Roadmap](roadmap.md)
 
 - Links
