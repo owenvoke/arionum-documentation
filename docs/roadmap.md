@@ -9,19 +9,22 @@
 
 ## Completed
 
-- Create a block explorer
-- Create mining pool software
+- Create a block explorer ([link](https://arionum.info))
+- Create mining pool software ([link](https://github.com/arionum/pool))
 - Create a Windows PHP bundle
-- Create a Windows GUI wallet
-- Create an escrow system
-- Create a Windows GUI miner
-- Create a full node API
-- Create a blockchain-based raffle
-- Create a Bitcoin-like JSON-RPC API (for easier integration by exchanges)
-- Add Arionum to exchanges
-- Create an Android wallet
-- Create a web wallet
-- Create an alias system
-- Add support for masternodes
-- Create a Linux GUI wallet
-- Create a Mac GUI wallet
+- Create a Windows GUI wallet ([link](https://arionum.com/LightArionumD))
+- Create an escrow system ([link](https://escrow.arionum.com))
+- Create a Windows GUI miner ([link](https://www.arionum.com/LightArionumD))
+- Create a full node API ([link](node-api.md))
+- Create a blockchain-based raffle ([link](http://raffle.arionum.com))
+- Create a Bitcoin-like JSON-RPC API (for easier integration by exchanges) ([link](https://github.com/arionum/json-rpc))
+- Add Arionum to exchanges ([link](exchanges.md))
+- Create an Android wallet ([link][android-wallet])
+- Create a web wallet ([link](https://wallet.arionum.com))
+- Create an alias system ([link](aliases.md))
+- Add support for masternodes ([link](masternodes.md))
+- Create a Linux GUI wallet ([link][cross-platform-wallet])
+- Create a Mac GUI wallet ([link][cross-platform-wallet])
+
+[android-wallet]: https://play.google.com/store/apps/details?id=arionum.net.cubedpixels
+[cross-platform-wallet]: https://wallet.arionum.com/installer
