@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "arionum-documentation",
+  "description": "A collection of documentation for the Arionum blockchain.",
+  "license": "MIT",
+  "devDependencies": {
+    "docsify-cli": "^4.2.1"
+  },
+  "scripts": {
+    "serve": "docsify serve docs"
+  }
+}
