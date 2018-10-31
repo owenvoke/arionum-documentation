@@ -36,14 +36,6 @@ $ php util.php block-time
 $ php util.php blocks 'height' [limit]
 ```
 
-## Blocks
-
-> Output the id and height of blocks higher than a specific height.
-
-```bash
-$ php util.php blocks 'height' [limit]
-```
-
 ## Check Address
 
 > Output the validity of a specific address.
