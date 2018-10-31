@@ -25,6 +25,7 @@ There are also accounts on the following sites:
 - [CoinMarketCap](https://coinmarketcap.com/currencies/arionum)
 - [Live Coin Watch](https://livecoinwatch.com/price/Arionum-ARO)
 - [Coinlib](https://coinlib.io/coin/ARO/Arionum)
+- [CryptoSlate](https://cryptoslate.com/coins/arionum)
 - [ArioChain](https://www.ariochain.info)
 
 [bitcointalk]: https://bitcointalk.org/index.php?topic=2710248
