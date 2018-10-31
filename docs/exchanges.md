@@ -2,6 +2,7 @@
 
 ## Current
 
+- [Official Escrow](https://escrow.arionum.com)
 - [Mercatox](https://mercatox.com)
 
 ## Upcoming
