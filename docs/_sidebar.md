@@ -11,6 +11,7 @@
   - [API Wrappers](developers/api-wrappers.md)
   - [Forks](developers/forks.md)
   - [Roadmap](developers/roadmap.md)
+  - [Adoption](developers/adoption.md)
 
 - Network
 
