@@ -12,13 +12,13 @@ The transaction logic is the same as standard transactions, except they use **2*
 
 ## Creating an alias
 
-Aliases can be created using the `alias set` command in the [Official Light Wallet CLI](https://github.com/arionum/lightWalletCLI).
+Aliases can be created using the `alias set` command in the [Official Light Wallet CLI][light-wallet-cli].
 
 ```bash
 php light-arionum-cli alias set 'alias'
 ```
 
-They can also be set using the [arionum-cli](https://github.com/pxgamer/arionum-cli) as follows:
+They can also be set using the [arionum-cli] as follows:
 
 ```bash
 arionum alias:set 'alias'
@@ -26,14 +26,17 @@ arionum alias:set 'alias'
 
 ## Sending to an alias
 
-Aliases can be created using the `alias send` command in the [Official Light Wallet CLI](https://github.com/arionum/lightWalletCLI).
+Aliases can be created using the `alias send` command in the [Official Light Wallet CLI][light-wallet-cli].
 
 ```bash
 php light-arionum-cli alias send 'alias' 'value' [message]
 ```
 
-They can also be set using the [arionum-cli](https://github.com/pxgamer/arionum-cli) as follows:
+They can also be set using the [arionum-cli] as follows:
 
 ```bash
 arionum alias:send 'alias' 'value' [message]
 ```
+
+[light-wallet-cli]: https://github.com/arionum/lightWalletCLI
+[arionum-cli]: https://github.com/pxgamer/arionum-cli
