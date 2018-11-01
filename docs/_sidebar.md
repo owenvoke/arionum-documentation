@@ -9,9 +9,12 @@
 
   - [API Wrappers](api-wrappers.md)
   - [Forks](forks.md)
+  - [Roadmap](roadmap.md)
+
+- Network
+
   - [Node API](node-api.md)
   - [Node Utility](node-utility.md)
-  - [Roadmap](roadmap.md)
 
 - Links
   - [Official Website](https://arionum.com)
