@@ -4,7 +4,7 @@
   "description": "A collection of documentation for the Arionum blockchain.",
   "license": "MIT",
   "devDependencies": {
-    "docsify-cli": "^4.2.1"
+    "docsify-cli": "^4.3"
   },
   "scripts": {
     "serve": "docsify serve docs"
