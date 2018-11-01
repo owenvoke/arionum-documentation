@@ -1,20 +1,20 @@
 - Getting started
 
-  - [Wallets](wallets.md)
-  - [Mining](mining.md)
-  - [Mining Pools](mining-pools.md)
-  - [Exchanges](exchanges.md)
+  - [Wallets](getting-started/wallets.md)
+  - [Mining](getting-started/mining.md)
+  - [Mining Pools](getting-started/mining-pools.md)
+  - [Exchanges](getting-started/exchanges.md)
   
 - Developers
 
-  - [API Wrappers](api-wrappers.md)
-  - [Forks](forks.md)
-  - [Roadmap](roadmap.md)
+  - [API Wrappers](developers/api-wrappers.md)
+  - [Forks](developers/forks.md)
+  - [Roadmap](developers/roadmap.md)
 
 - Network
 
-  - [Node API](node-api.md)
-  - [Node Utility](node-utility.md)
+  - [Node API](network/node-api.md)
+  - [Node Utility](network/node-utility.md)
 
 - Links
   - [Official Website](https://arionum.com)
