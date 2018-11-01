@@ -4,6 +4,7 @@
   - [Mining](getting-started/mining.md)
   - [Mining Pools](getting-started/mining-pools.md)
   - [Exchanges](getting-started/exchanges.md)
+  - [Aliases](getting-started/aliases.md)
   
 - Developers
 
