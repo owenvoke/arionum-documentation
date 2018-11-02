@@ -6,7 +6,7 @@ Arionum uses [Base58](https://wikipedia.org/wiki/Base58) encoding for various as
 - [Block ids](#block-ids)
 - [Transaction ids](transaction-ids)
 
-### Account ids (addresses)
+## Account ids (addresses)
 
 Account ids are created from a `secp256k1` public key.
 
@@ -14,7 +14,7 @@ This is then `base58` encoded, raw `SHA512` hashed 9 times, and then encoded to 
 
 [View example on the Block Explorer](https://arionum.info/account/51sJ4LbdKzhyGy4zJGqodNLse9n9JsVT2rdeH92w7cf3qQuSDJupvjbUT1UBr7r1SCUAXG97saxn7jt2edKb4v4J)
 
-### Block ids
+## Block ids
 
 Block ids are generated from the following data:
 
@@ -29,7 +29,7 @@ Block ids are generated from the following data:
 
 [View example on the Block Explorer](https://arionum.info/block/26rVrJ79WZCvPaz9LijthyxvNp5RkG8XbwSBonUrJEJ87N5EDVWuSMRS5qijarmYv5dJP17UMMV4GMFRXwR1CaFu)
 
-### Transaction ids
+## Transaction ids
 
 Transaction ids are generated from the following data:
 
