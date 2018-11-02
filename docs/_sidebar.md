@@ -12,6 +12,7 @@
   - [Forks](developers/forks.md)
   - [Roadmap](developers/roadmap.md)
   - [Adoption](developers/adoption.md)
+  - [Hashing and encoding](developers/hashing-and-encoding.md)
 
 - Network
 
