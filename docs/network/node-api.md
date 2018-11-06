@@ -476,3 +476,24 @@ Content-Type: application/json
   "coin": "arionum"
 }
 ```
+
+## checkAddress
+
+> Checks the validity of an address.
+> Optionally validate it against the corresponding public key.
+
+```http
+GET /api.php?q=checkAddress&account={address} HTTP/1.1
+GET /api.php?q=checkAddress&account={address}&public_key={publicKey} HTTP/1.1
+```
+
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "status": "ok",
+  "data": true|false, // Whether or not the address is valid
+  "coin": "arionum"
+}
+```
