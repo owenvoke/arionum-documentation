@@ -35,7 +35,3 @@ A list of available miners for Arionum.
 ### Mixed Miners
 
 - [Bogdan's Miner](https://github.com/bogdanadnan/ariominer#instructions) ([source](https://github.com/bogdanadnan/ariominer)) `1% fee`
-
-### Mobile Miners
-
-- [Cuby's Android Wallet & Miner](https://play.google.com/store/apps/details?id=arionum.net.cubedpixels) ([source](https://github.com/CuteCubed/Arionum-Wallet-Android)) `No fee`
