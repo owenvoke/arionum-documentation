@@ -5,7 +5,7 @@ A list of available wallets for Arionum.
 ## GUI Wallets
 
 - [Official Windows Wallet & Miner](https://www.arionum.com/LightArionumD) ([source](https://github.com/arionum/lightWalletGUI))
-- [Official Cross-platform Wallet](https://wallet.arionum.com/installer) ([source](https://github.com/CuteCubed/Arionum-Java-Wallet))
+- Official Cross-platform Wallet <sup style='color:red'>(Deprecated)</sup>
 
 ## CLI Wallets
 
@@ -14,8 +14,8 @@ A list of available wallets for Arionum.
 
 ## Web Wallets
 
-- [Official Web Wallet](https://wallet.arionum.com) ([source](https://github.com/CuteCubed/Arionum-Web-Wallet))
+- Official Web Wallet <sup style='color:red'>(Deprecated)</sup>
 
 ## Mobile Wallets
 
-- [Cuby's Android Wallet & Miner](https://play.google.com/store/apps/details?id=arionum.net.cubedpixels) ([source](https://github.com/CuteCubed/Arionum-Wallet-Android))
+- Cuby's Android Wallet & Miner <sup style='color:red'>(Deprecated)</sup>
