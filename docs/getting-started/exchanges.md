@@ -3,6 +3,7 @@
 ## Current
 
 - [Mercatox](https://mercatox.com)
+- [VINEX](https://vinex.network) (not endorsed)
 
 ## The Official Escrow
 
