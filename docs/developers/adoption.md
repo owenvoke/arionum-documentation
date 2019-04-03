@@ -1,9 +1,5 @@
 # Adoption
 
-## Games
-
-- [AroGames (Online Casino)](https://arogames.net)
-
 ## Utilities
 
 - [AroGalaxy (Mining Analytics)](https://www.arogalaxy.com)
