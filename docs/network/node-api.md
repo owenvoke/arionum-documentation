@@ -497,3 +497,31 @@ Content-Type: application/json
   "coin": "arionum"
 }
 ```
+
+## assetBalance
+
+> Checks the asset balances of an address or public key.
+
+!> TESTNET ONLY
+
+```http
+GET /api.php?q=assetBalance&public_key={publicKey} HTTP/1.1
+GET /api.php?q=assetBalance&account={address} HTTP/1.1
+```
+
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "status": "ok",
+  "data": [
+    {
+      "asset": "...",
+      "alias": "...",
+      "balance": ...,
+    }
+  ],
+  "coin": "arionum"
+}
+```
