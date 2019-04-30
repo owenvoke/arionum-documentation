@@ -39,3 +39,11 @@ Masternodes now receive 33% of all blocks.
 _No official announcement._
 
 Gives block to GPU miners if block is taking too long.
+
+## Block 126215 (Recovery)
+
+[Official Announcement](https://forum.arionum.com/viewtopic.php?t=380)
+
+Emergency hard fork to remove compromised masternodes and send stolen coins to a safe wallet ([4kWXV4HMuogUcjZBEzm...](https://arionum.info/account/4kWXV4HMuogUcjZBEzmmQdtc1dHzta6VykhCV1HWyEXK7kRWEMJLNoMWbuDwFMTfBrq5a9VthkZfmkMkamTfwRBP)).
+
+Fixes 2 additional broken wallets.
