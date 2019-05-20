@@ -11,7 +11,9 @@ Arionum has an official escrow service for trading Arionum securely for [Bitcoin
 
 The escrow service is available from: [escrow.arionum.com](https://escrow.arionum.com)
 
-?> The escrow service has no fees except the **0.5% ARO** transfer fees and the exchange currency transfer fees.
+:::tip
+The escrow service has no fees except the **0.5% ARO** transfer fees and the exchange currency transfer fees.
+:::
 
 There is an official [video tutorial on YouTube](https://www.youtube.com/watch?v=fpOTuXlCIF0) which shows how the Escrow system works.
 
