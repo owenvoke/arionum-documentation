@@ -4,7 +4,7 @@ Arionum uses [Base58](https://wikipedia.org/wiki/Base58) encoding for various as
 
 - [Account ids](#account-ids-addresses)
 - [Block ids](#block-ids)
-- [Transaction ids](transaction-ids)
+- [Transaction ids](#transaction-ids)
 
 ## Account ids (addresses)
 
