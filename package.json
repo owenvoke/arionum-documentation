@@ -1,12 +1,13 @@
 {
-  "private": true,
-  "name": "arionum-documentation",
-  "description": "A collection of documentation for the Arionum blockchain.",
-  "license": "MIT",
-  "devDependencies": {
-    "docsify-cli": "^4.3"
-  },
-  "scripts": {
-    "serve": "docsify serve docs"
-  }
+    "private": true,
+    "name": "arionum-documentation",
+    "description": "A collection of documentation for the Arionum blockchain.",
+    "license": "MIT",
+    "scripts": {
+        "serve": "vuepress dev src",
+        "build": "vuepress build src"
+    },
+    "devDependencies": {
+        "vuepress": "^0.14"
+    }
 }

@@ -6,7 +6,7 @@ A collection of documentation for the [Arionum][link-arionum] blockchain.
 
 ## Usage
 
-See the [`docs`](docs) directory for site content.
+See the [`src`](src) directory for site content.
 
 ## Credits
 
