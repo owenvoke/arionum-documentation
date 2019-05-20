@@ -170,7 +170,9 @@ Content-Type: application/json
 
 > Generates a new account key pair and address.
 
-!> This function should only be used when the node is on the same host or over a really secure network.
+:::warning
+This function should only be used when the node is on the same host or over a really secure network.
+:::
 
 ```http
 GET /api.php?q=generateAccount HTTP/1.1
@@ -288,7 +290,9 @@ Content-Type: application/json
 
 > Sends a transaction.
 
-!> It is recommended to sign the transaction instead of sending a private key to the node.
+:::tip
+It is recommended to sign the transaction instead of sending a private key to the node.
+:::
 
 ```http
 POST /api.php?q=send HTTP/1.1
@@ -502,7 +506,9 @@ Content-Type: application/json
 
 > Checks the asset balances of an address or public key.
 
-!> TESTNET ONLY
+:::warning
+TESTNET ONLY
+:::
 
 ```http
 GET /api.php?q=assetBalance&public_key={publicKey} HTTP/1.1
