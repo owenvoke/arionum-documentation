@@ -48,7 +48,9 @@ $ php util.php check-address 'address'
 
 > Clean the entire database.
 
-!> This will remove all accounts, blocks, masternodes, mempools and transactions from the database.
+:::warning
+This will remove all accounts, blocks, masternodes, mempools and transactions from the database.
+:::
 
 ```bash
 $ php util.php clean
