@@ -45,6 +45,10 @@ module.exports = {
                     '/network/masternodes',
                 ]
             }
-        ]
+        ],
+        algolia: {
+            apiKey: '4bb59a2b9fa17f423e1f70f9ae590f58',
+            indexName: 'arionum'
+        }
     }
 }
