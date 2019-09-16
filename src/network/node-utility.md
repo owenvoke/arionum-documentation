@@ -96,6 +96,14 @@ $ php util.php delete-peer 'peer_hostname'
 $ php util.php get-address 'public_key'
 ```
 
+## Masternode Hash
+
+> Generate an `md5` hash of all registered masternodes in the blockchain.
+
+```bash
+$ php util.php masternode-hash
+```
+
 ## Mempool
 
 > Output the number of transactions in the mempool.
