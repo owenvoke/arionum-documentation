@@ -72,6 +72,14 @@ $ php util.php clean
 $ php util.php clean-blacklist
 ```
 
+## Compare Accounts
+
+> Compare the account records between the current node and another peer.
+
+```bash
+$ php util.php compare-accounts 'peer_hostname'
+```
+
 ## Current Block
 
 > Output details about the current block.
