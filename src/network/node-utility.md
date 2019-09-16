@@ -4,6 +4,14 @@
 
 The Arionum Node contains a command line utility tool called `util.php` which can be used to perform various commands.
 
+## Accounts Hash
+
+> Generate an `md5` hash of all registered accounts in the blockchain.
+
+```bash
+$ php util.php accounts-hash
+```
+
 ## Balance
 
 > Output the balance for a specific account.
