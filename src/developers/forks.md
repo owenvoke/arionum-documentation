@@ -26,7 +26,7 @@ Updates to a hybrid mining system where 1 block each is rewarded to CPU miners, 
 
 Implements masternodes which win blocks based on a Proof of Stake (PoS) system and will be used for project governance.
 
-## Block 80460
+## Block 80460 (CPU and GPU Reward Split)
 
 _No official announcement._
 
@@ -34,7 +34,7 @@ Change to only CPU and GPU mining.
 
 Masternodes now receive 33% of all blocks.
 
-## Block 80500
+## Block 80500 (GPU Fix)
 
 _No official announcement._
 
@@ -47,3 +47,11 @@ Gives block to GPU miners if block is taking too long.
 Emergency hard fork to remove compromised masternodes and send stolen coins to a safe wallet ([4kWXV4HMuogUcjZBEzm...](https://arionum.info/account/4kWXV4HMuogUcjZBEzmmQdtc1dHzta6VykhCV1HWyEXK7kRWEMJLNoMWbuDwFMTfBrq5a9VthkZfmkMkamTfwRBP)).
 
 Fixes 2 additional broken wallets.
+
+## Block 216000 (Assets)
+
+[Official Announcement](https://forum.arionum.com/viewtopic.php?t=2984)
+
+Implements an emission cut, cold stacking, blockchain voting, and masternode blacklist voting.
+
+It also activates the asset system.
