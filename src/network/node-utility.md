@@ -192,3 +192,11 @@ $ php util.php resync-accounts 'check'
 ```bash
 $ php util.php sendblock 'block_height' 'peer_hostname'
 ```
+
+## Version
+
+> Check the version of the node.
+
+```bash
+$ php util.php version
+```
