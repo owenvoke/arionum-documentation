@@ -4,6 +4,14 @@
 
 The Arionum Node contains a command line utility tool called `util.php` which can be used to perform various commands.
 
+## Accounts Hash
+
+> Generate an `md5` hash of all registered accounts in the blockchain.
+
+```bash
+$ php util.php accounts-hash
+```
+
 ## Balance
 
 > Output the balance for a specific account.
@@ -64,6 +72,22 @@ $ php util.php clean
 $ php util.php clean-blacklist
 ```
 
+## Compare Accounts
+
+> Compare the account records between the current node and another peer.
+
+```bash
+$ php util.php compare-accounts 'peer_hostname'
+```
+
+## Compare Blocks
+
+> Compare the blocks between the current node and another peer.
+
+```bash
+$ php util.php compare-blocks 'peer_hostname' [limit]
+```
+
 ## Current Block
 
 > Output details about the current block.
@@ -86,6 +110,14 @@ $ php util.php delete-peer 'peer_hostname'
 
 ```bash
 $ php util.php get-address 'public_key'
+```
+
+## Masternode Hash
+
+> Generate an `md5` hash of all registered masternodes in the blockchain.
+
+```bash
+$ php util.php masternode-hash
 ```
 
 ## Mempool
@@ -134,4 +166,37 @@ $ php util.php pop 'number_of_blocks'
 
 ```bash
 $ php util.php recheck-blocks
+```
+
+## Recheck External Blocks
+
+> Recheck all blocks in the blockchain to assert their validity.
+
+```bash
+$ php util.php recheck-external-blocks 'peer_hostname' 'block_height'
+```
+
+## Resynchronise Accounts
+
+> Resynchronise the balance for all registered accounts.
+
+```bash
+$ php util.php resync-accounts
+$ php util.php resync-accounts 'check'
+```
+
+## Send Block
+
+> Resynchronise the balance for all registered accounts.
+
+```bash
+$ php util.php sendblock 'block_height' 'peer_hostname'
+```
+
+## Version
+
+> Check the version of the node.
+
+```bash
+$ php util.php version
 ```
