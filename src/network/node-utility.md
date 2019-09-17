@@ -175,3 +175,12 @@ $ php util.php recheck-blocks
 ```bash
 $ php util.php recheck-external-blocks 'peer_hostname' 'block_height'
 ```
+
+## Resynchronise Accounts
+
+> Resynchronise the balance for all registered accounts.
+
+```bash
+$ php util.php resync-accounts
+$ php util.php resync-accounts 'check'
+```
