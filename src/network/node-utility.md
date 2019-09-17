@@ -80,6 +80,14 @@ $ php util.php clean-blacklist
 $ php util.php compare-accounts 'peer_hostname'
 ```
 
+## Compare Blocks
+
+> Compare the blocks between the current node and another peer.
+
+```bash
+$ php util.php compare-blocks 'peer_hostname' [limit]
+```
+
 ## Current Block
 
 > Output details about the current block.
