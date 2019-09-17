@@ -184,3 +184,11 @@ $ php util.php recheck-external-blocks 'peer_hostname' 'block_height'
 $ php util.php resync-accounts
 $ php util.php resync-accounts 'check'
 ```
+
+## Send Block
+
+> Resynchronise the balance for all registered accounts.
+
+```bash
+$ php util.php sendblock 'block_height' 'peer_hostname'
+```
