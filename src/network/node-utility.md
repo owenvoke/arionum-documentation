@@ -167,3 +167,11 @@ $ php util.php pop 'number_of_blocks'
 ```bash
 $ php util.php recheck-blocks
 ```
+
+## Recheck External Blocks
+
+> Recheck all blocks in the blockchain to assert their validity.
+
+```bash
+$ php util.php recheck-external-blocks 'peer_hostname' 'block_height'
+```
