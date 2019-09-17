@@ -506,10 +506,6 @@ Content-Type: application/json
 
 > Checks the asset balances of an address or public key.
 
-:::warning
-TESTNET ONLY
-:::
-
 ```http
 GET /api.php?q=assetBalance&public_key={publicKey} HTTP/1.1
 GET /api.php?q=assetBalance&account={address} HTTP/1.1
