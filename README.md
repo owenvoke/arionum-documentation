@@ -1,4 +1,4 @@
-# arionum-documentation
+# Arionum Documentation
 
 [![License][ico-license]](LICENSE.md)
 
