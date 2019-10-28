@@ -521,7 +521,40 @@ Content-Type: application/json
     {
       "asset": "...",
       "alias": "...",
-      "balance": ...,
+      "balance": ...
+    }
+  ],
+  "coin": "arionum"
+}
+```
+
+## assets
+
+> Returns details about one or more available assets on the network.
+
+```http
+GET /api.php?q=assets HTTP/1.1
+GET /api.php?q=assets&asset={assetId} HTTP/1.1
+```
+
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "status": "ok",
+  "data": [
+    {
+      "id": "...",
+      "max_supply": "...",
+      "tradable": ...,
+      "price": "...",
+      "dividend_only": ...,
+      "auto_dividend": ...,
+      "allow_bid": ...,
+      "height": ...,
+      "alias": "...",
+      "balance": ...
     }
   ],
   "coin": "arionum"
