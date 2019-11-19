@@ -8,7 +8,7 @@ A list of known pools for Arionum.
 - [AroPool](https://aropool.com) (HTTPS/HTTP) `5% fee`
 - [ARO.Cool](https://aro.cool) (HTTPS/HTTP) `2% fee`
 - [Arionum Rocks](http://arionum.rocks) (HTTP only) `No fee`
-- [Aro Pool EU](https://aropool.eu) (HTTPS/HTTP) `2% fee`
+- [ArioPool](https://pool.ariochain.info) (HTTPS/HTTP) `2.75% fee`
 
 ## Solo Pools
 
