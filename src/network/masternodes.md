@@ -31,4 +31,4 @@ The steps below are for retrieving the initial deposit and closing the masternod
    ```
 
 [light-wallet-cli]: https://github.com/arionum/lightWalletCLI
-[arionum-cli]: https://github.com/pxgamer/arionum-cli/releases/latest
+[arionum-cli]: https://github.com/owenvoke/arionum-cli/releases/latest

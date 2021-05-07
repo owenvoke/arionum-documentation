@@ -39,4 +39,4 @@ arionum alias:send 'alias' 'value' [message]
 ```
 
 [light-wallet-cli]: https://github.com/arionum/lightWalletCLI
-[arionum-cli]: https://github.com/pxgamer/arionum-cli
+[arionum-cli]: https://github.com/owenvoke/arionum-cli

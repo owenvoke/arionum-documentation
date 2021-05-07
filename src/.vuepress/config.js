@@ -6,7 +6,7 @@ module.exports = {
     themeConfig: {
         logo: '/logo.svg',
         repo: 'arionum',
-        docsRepo: 'pxgamer/arionum-documentation',
+        docsRepo: 'owenvoke/arionum-documentation',
         docsDir: 'src',
         editLinks: true,
         nav: [

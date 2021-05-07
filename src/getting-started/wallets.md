@@ -9,4 +9,4 @@ A list of available wallets for Arionum.
 ## CLI Wallets
 
 - [Official PHP CLI Wallet](https://github.com/arionum/lightWalletCLI)
-- [pxgamer's PHP CLI Wallet](https://github.com/pxgamer/arionum-cli/releases/latest) ([source](https://github.com/pxgamer/arionum-cli))
+- [Owen Voke's PHP CLI Wallet](https://github.com/owenvoke/arionum-cli/releases/latest) ([source](https://github.com/owenvoke/arionum-cli))
