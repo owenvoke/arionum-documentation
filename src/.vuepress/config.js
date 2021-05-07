@@ -8,6 +8,7 @@ module.exports = {
         repo: 'arionum',
         docsRepo: 'owenvoke/arionum-documentation',
         docsDir: 'src',
+        docsBranch: 'main',
         editLinks: true,
         nav: [
             {text: 'Official Website', link: 'https://arionum.com'},
